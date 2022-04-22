@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Refia Hyuga</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
@@ -15,6 +13,8 @@
 
 <!--
 **RefiaHyuga/RefiaHyuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
